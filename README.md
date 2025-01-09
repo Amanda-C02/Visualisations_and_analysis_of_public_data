@@ -4,7 +4,9 @@
 
 ### Use this data and code as you wish. Some examples of visualisations produced: 
 
+
 *Pie chart showing the proportion of sales for different products across a year*
+
 ![pie](https://github.com/user-attachments/assets/f814464f-e358-4a34-9e17-8789686652e9)
 
 *Bar chart comparing the sales numbers of two products across 12 months*
